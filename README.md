@@ -1,7 +1,7 @@
 # AutoNessusScanner
 
 ### Demo Video
-<a href='https://youtu.be/3eAhhMZWHXY'>Auto Nessus Scanner Demo</a>
+<a href="https://youtu.be/3eAhhMZWHXY" target="_blank">Auto Nessus Scanner Demo</a>
 
 ### Overview
 [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner) is a great vulnerability assessment tool that provides flexibility to choose from a variety of different flavors of scans. It also provides a very comprehensive scan report at the end of the scan which can be used further in many ways by automated intrusion detection systems or even human analysts.
