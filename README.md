@@ -18,11 +18,11 @@ The code is written in Python 2.7 and works as a BASH command line tool.
 
 ### Dependencies
 1. [Selenium Web Browser Automation](http://www.seleniumhq.org/)
-  * pip install selenium`
+  * `pip install selenium`
 2. [Requests module for HTTP](https://pypi.python.org/pypi/requests)
-  * pip install requests`
+  * `pip install requests`
 3. [Python 2.7 json module](https://docs.python.org/2/library/json.html)
-  * inbuilt module in Python 2.7
+  * `inbuilt module in Python 2.7`
 
 ### Configuration
 The `NessusScanIPs.txt` file needs to contain a list of IP addresses of machines that need to be scanned for vulnerabilities. Each IP address needs to be specified on a new line in the text file.
